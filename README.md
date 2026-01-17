@@ -566,10 +566,10 @@ To scale to **hundreds of APIs** or **multiple regions**:
 | Component | Monthly Cost (Est.) |
 |-----------|---------------------|
 | **Lambda** (1x daily) | ~$5 |
-| **Athena** (10 GB scanned/day) | ~$15 |
+| **Athena** (5 GB scanned/day) | ~$5 |
 | **S3** (30 reports/month) | ~$1 |
 | **SNS** (30 emails/month) | ~$0 |
-| **Total** | ~$21/month |
+| **Total** | ~$11/month |
 
 ---
 
