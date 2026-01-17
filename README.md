@@ -648,8 +648,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-**Senior Cloud/DevOps Engineer**  
-Production-grade AWS observability and automation specialist
+**Rituraj Singh**  
+DevOps Engineer
 
 *Built with ❤️ for enterprise-scale reliability*
 
